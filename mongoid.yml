@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: zebra
+      hosts:
+        - localhost:27017
